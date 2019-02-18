@@ -1,2 +1,2 @@
 # WordGuess-cli_constructor
-![alt text](http://console.png)
+![alt text](https://github.com/JMH2016/WordGuess-cli_constructor/blob/master/console.png)
